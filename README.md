@@ -17,4 +17,9 @@ The Fervojo font family is published under the SIL Open Font license 1.1 (OFL 1.
 I will be actively developing the font family by correcting font file data, as well as adding new styles and glyphs to support various situations and languages.
 
 ## Type Specimen
-
+![](https://github.com/Kohakuno-Layer/Fervojo/blob/main/images/34.png)
+![](https://github.com/Kohakuno-Layer/Fervojo/blob/main/images/35.png)
+![](https://github.com/Kohakuno-Layer/Fervojo/blob/main/images/36.png)
+![](https://github.com/Kohakuno-Layer/Fervojo/blob/main/images/37.png)
+![](https://github.com/Kohakuno-Layer/Fervojo/blob/main/images/38.png)
+![](https://github.com/Kohakuno-Layer/Fervojo/blob/main/images/39.png)
